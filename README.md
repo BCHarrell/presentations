@@ -2,7 +2,8 @@
 Any presentations I've given internally (that I can share)/externally
 
 ## Assorted
-- OSCP Lecture Series (PPTX because there are pertinent animations in a few slides)
+- OSCP Lecture Series (pptx because there are pertinent animations in a few slides)
+- The Team, the Myth, the Legend (company-wide lunch and learn on Red Team)
 - Fallout Template (potx)
 
 ## Conferences
