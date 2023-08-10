@@ -8,7 +8,7 @@ Any presentations I've given internally (that I can share)/externally
 
 ## Conferences
 - Financial Services ISAC / Healthcare ISAC Summit: Mastering the (Extra)Ordinary: A New Red Team Capability Maturity Model
-- BSides LV 2023: You've Gained +2 Perception
+- BSides LV 2023: You've Gained +2 Perception [Video](https://www.youtube.com/live/H9YqJ1Ry1l8?feature=share&t=13546)
 
 ## Other Talks Not Found Here
 - Red Team Summit 2023 panel discussion
